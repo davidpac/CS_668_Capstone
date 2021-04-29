@@ -1,2 +1,2 @@
 # CS_668_Capstone
-#codes are as follow:
+#codes are as follow
