@@ -22,7 +22,7 @@
 4.	Visualize the findings (Tableau, Python, R)
 5.	Build a model for price prediction
  
-** Success Criteria:**
+**** Success Criteria:****
  
 -	After exploratory analysis is made and a prediction model is built, the model will be evaluated to make sure its accuracy.
 Assumptions, Risks, Obstacles:
