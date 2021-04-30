@@ -1,7 +1,5 @@
 # CS_668_Capstone
 
-# CS_668_Capstone
-
 **Problem/ Opportunity:**
 
 -	Is it possible to build a price prediction model for each of the app categories ?
